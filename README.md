@@ -1,19 +1,10 @@
 
-<img src="https://github.com/utsavsaxena2004/utsavsaxena2004/blob/64ae8463f7891c0f5597c32afade19c883e8df14/Github%20Personal%20Readme%20Background.png">
 <h1 align="center">Hi 👋, I'm Utsav Saxena</h1>
 <h3 align="center">CS Student | Coffee to Code & Pixels to Color</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=utsavsaxena2004&label=Profile%20views&color=0e75b6&style=flat" alt="utsavsaxena2004" /> </p>
 
-- 🔭 I’m currently working on **Traversing my Knowledge**
-
-- 🌱 I’m currently learning **Typescript, Kotlin and Tailwind**
-
-- 👯 I’m looking to collaborate on **Rug-Pull Detection**
-
-- 🤝 I’m looking for help with **Rug-Pull Detection**
-
-- 📝 I regularly write articles in **my Brain**
+- 🌱 I’m currently learning **Typescript, Kotlin and Sql**
 
 - 💬 I love exploring different kinds of cultures and cuisines of food specially **Biryani**
 
