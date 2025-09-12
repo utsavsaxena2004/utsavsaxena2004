@@ -4,7 +4,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=utsavsaxena2004&label=Profile%20views&color=0e75b6&style=flat" alt="utsavsaxena2004" /> </p>
 
-- 🌱 I’m currently learning **Typescript, Kotlin and Sql**
+- 🌱 I’m currently learning **Goland and Rust**
 
 - 💬 I love exploring different kinds of cultures and cuisines of food specially **Biryani**
 
