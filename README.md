@@ -10,7 +10,7 @@
 
 - 📫 How to reach me **utsavsaxena2004@gmail.com**
 
-- 📄 Resume [Resume]([https://drive.google.com/file/d/1GKJCpAHnqI4G8XsMmgQNxY1jDMmM0Zxc/view?usp=sharing](https://drive.google.com/file/d/1ZKCe4xenYLoysXEzMiaC8i-TSVdhezUy/view?usp=sharing))
+- 📄 Resume [Resume]([https://drive.google.com/file/d/1GKJCpAHnqI4G8XsMmgQNxY1jDMmM0Zxc/view?usp=sharing](https://drive.google.com/file/d/1ZKCe4xenYLoysXEzMiaC8i-TSVdhezUy/view?usp=sharing])
 
 - ⚡Bio **<\ / > ᴅᴍ's ɪɢɴᴏʀᴇᴅ || Human Attachment is Injurious to Health .. 🥀 || The reason why smart people don't see well is because they lower their graphics to max their fps.**
 
