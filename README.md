@@ -3,8 +3,12 @@
 <h3 align="center">CS Student | Coffee to Code & Pixels to Color</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=utsavsaxena2004&label=Profile%20views&color=0e75b6&style=flat" alt="utsavsaxena2004" /> </p>
+उत्सव 🥀||
+Festival-kun🃏👀||
+Ragdoll 😽|| Razorbill 🐥
+Human Attachment is Injurious to Health || No Rizz just Brown Eyes and Yapping 🎀🫂
 
-- 🌱 I’m currently learning **Goland and Rust**
+- 🌱 I’m currently learning **Golang and Rust**
 
 - 💬 I love exploring different kinds of cultures and cuisines of food specially **Biryani**
 
@@ -12,7 +16,7 @@
 
 - 📄 Resume [Resume](https://drive.google.com/file/d/1ZKCe4xenYLoysXEzMiaC8i-TSVdhezUy/view?usp=sharing])
 
-- ⚡Bio **<\ / > ᴅᴍ's ɪɢɴᴏʀᴇᴅ || Human Attachment is Injurious to Health .. 🥀 || The reason why smart people don't see well is because they lower their graphics to max their fps.**
+-
 
 
 
